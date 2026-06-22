@@ -38,7 +38,8 @@
 | 專案 | 技術 | 狀態 |
 |------|------|------|
 | [Line Bot](https://github.com/Vic428-human/Line-bot) | Python、Superbase、railway| 🔄 開發中 |
-| [VR世界](https://github.com/Vic428-human/RuneTownVRPrototype) | Unity VR | 🔄 開發中 |
+| [VR世界](https://github.com/Vic428-human/RuneTownVRPrototype) | Unity VR、C# | 🔄 開發中 |
+| [NPC專用的語言模型](https://github.com/Vic428-human/local-npc-llm-api) | Llama 3.2 3B | 🔄 開發中 |
 | 語音分身 | 手機 App（AI 語音合成）| 📋 規劃中 |
 
 ---
