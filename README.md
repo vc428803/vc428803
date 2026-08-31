@@ -51,11 +51,6 @@ A long-term side project focused on building a personal digital twin.
 
 The project is currently split into several independent modules, including conversational data collection, local language models, VR environments, and voice synthesis.
 
-Project| Tech| Status
-"Line Bot" (https://github.com/Vic428-human/Line-bot)| "Python" "Supabase" "Railway"| 🔄 In Progress
-"RuneTown VR" (https://github.com/Vic428-human/RuneTownVRPrototype)| "Unity" "C#" "OpenXR"| 🔄 In Progress
-"Local NPC LLM API" (https://github.com/Vic428-human/local-npc-llm-api)| "Python" "Llama 3.2 3B"| 🔄 In Progress
-Voice Clone| "Mobile" "Speech Synthesis"| 📋 Planned
 
 RuneTown VR
 
