@@ -5,6 +5,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
 </picture>
 
+
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vc428803)
+
 # Hi, I'm Builder 👋
 
 **Software Engineer | Full-stack Development**
