@@ -7,81 +7,24 @@
 
 Hi, I'm Builder 👋
 
-軟體工程師｜全端開發
+Software Engineer | C# / .NET · Full-Stack · Backend
 
-C# / .NET · React / TypeScript · Java / Spring Boot · Go · SQL
+C# / .NET · ASP.NET Core · React / TypeScript · Java / Spring Boot · SQL
 
-主要開發企業系統與全端應用，涵蓋桌面應用、Web 前端、
-後端 API、關聯式資料庫與即時通訊系統。
+I build enterprise applications that handle complex business rules, transactional consistency, and operational workflows—not just basic CRUD functionality.
 
-近期工作以 C# / .NET 企業應用為主，
-包含 WinForms 系統、ASP.NET Core API、資料庫整合
-以及企業內部作業流程系統。
+My professional experience primarily covers three types of enterprise systems:
 
-工作之外持續開發 React、Java / Spring Boot、Go、PostgreSQL、
-Unity 與 VR 專案，探索不同平台與系統架構的整合方式。
+- Banquet Booking and Venue Operations Systems — Handling venue booking conflicts, orders and sub-orders, equipment and catering services, pricing rules, status transitions, historical data compatibility, and cross-table transactions.
+- PDA / RFID Warehouse and Inventory Systems — Supporting receiving, inventory, and return workflows, including IMEI validation, quantity verification, and duplicate inventory checks. Transaction and rollback mechanisms are used to maintain inventory data consistency.
+- Customer, Contract, and Project Workflow Systems — Managing business relationships across Customer → Contract → Service, as well as employees, departments, group-based permissions, approval roles, and approval flows.
 
-🧩 代表專案
+My current work focuses on C# / .NET enterprise application development, covering WinForms, ASP.NET Core REST APIs, React / TypeScript, SQL Server / Oracle, and the systematization of real-world internal business operations.
 
-🏢 企業訂席與場務管理系統
+Engineering Focus
 
-"C#" · ".NET Framework" · "WinForms" · "SQL Server"
+Complex Business Rules · Transaction Management · Data Consistency · Workflow & Authorization · Legacy System Refactoring · API & Database Integration
 
-主要開發者，負責企業內部訂席與場務管理系統的完整功能開發，
-涵蓋訂單與子訂單、場地預約、設備與餐飲、計價規則、
-狀態管理以及 Excel 商業文件產生。
+Beyond implementing requirements, I continuously improve existing systems by gradually separating UI, business logic, and data access responsibilities. This helps improve maintainability, testability, and long-term extensibility.
 
-處理複雜預約規則、歷史資料相容性與既有系統的漸進式重構，
-並持續改善 UI、商業邏輯與資料存取之間的職責劃分。
-
-📦 PDA / RFID 作業 API
-
-"ASP.NET Core" · "C#" · "Oracle" · "REST API"
-
-開發企業 PDA / RFID 後端 API，
-支援進貨、庫存與退貨等實際作業流程。
-
-包含交易式資料回寫、IMEI 驗證、數量檢核、
-重複庫存檢查與資料一致性控制，
-確保異常資料不會直接影響正式庫存。
-
-🛒 Marketplace Platform
-
-"React" · "TypeScript" · "Go" · "PostgreSQL" · "WebSocket" · "SSE"
-
-全端 Marketplace 專案，包含拍賣、會員驗證、
-即時聊天室與事件系統。
-
-後端處理資料庫交易與競標時的併發控制，
-並透過 WebSocket / SSE 實作即時功能。
-
-🎮 Nexelyth — Mobile App
-
-"React Native" · "Java" · "Spring Boot" · "PostgreSQL"
-
-以「現實生活中的目標與經歷如何形成持續性的角色成長」
-為核心概念開發的 Mobile App。
-
-目前已建立 Goal、Completion Criterion、Evidence、Milestone 等
-Life Progression Domain，並完成 Evidence → Goal Progression 核心流程。
-
-後端採用 Spring Boot + PostgreSQL，
-透過 Domain / Persistence 分層與 Flyway 管理資料結構；
-Mobile App 負責 Goal、Criterion 與 Evidence 的操作流程。
-
-目前持續開發自訂 Goal 建立流程、
-Collection Persistence 與後續 Progression 系統。
-
-🥽 Nexelyth — VR World
-
-"Unity" · "C#" · "OpenXR" · "XR Interaction Toolkit"
-
-Nexelyth 的 VR 世界 Prototype，
-作為未來 Mobile Life Progression 與虛擬世界整合的實驗環境。
-
-目前完成三個地圖的基礎 Prototype，
-並建立 Portal 傳送機制，
-讓玩家能透過傳送入口在不同 VR 場景之間切換。
-
-現階段以 VR 世界結構、地圖切換與 Portal Flow
-作為主要技術驗證範圍。
+Outside of work, I continue exploring and building projects with Java / Spring Boot, Go, PostgreSQL, React Native, and Unity / VR. These projects allow me to further practice domain modeling, persistence architecture, concurrency, real-time communication, and cross-platform system integration.
