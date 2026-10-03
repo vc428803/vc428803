@@ -11,8 +11,7 @@ Software Engineer | C# / .NET · Full-Stack · Backend
 
 C# / .NET · ASP.NET Core · React / TypeScript · Java / Spring Boot · SQL
 
-I build enterprise applications that handle complex business rules, transactional consistency, and operational workflows—not just basic CRUD functionality.
-
+I build enterprise applications that handle complex business rules, transactional consistency, and operational workflows.
 My professional experience primarily covers three types of enterprise systems:
 
 - Banquet Booking and Venue Operations Systems — Handling venue booking conflicts, orders and sub-orders, equipment and catering services, pricing rules, status transitions, historical data compatibility, and cross-table transactions.
